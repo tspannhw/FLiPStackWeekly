@@ -38,6 +38,15 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * 10-Jan-2022:    https://www.linkedin.com/pulse/10-january-2022-streaming-tim-spann
 * 3-Jan-2022:     https://www.linkedin.com/pulse/2022-first-week-updates-tim-spann
 * 30-Dec-2021:    https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann
+* 27-Dec-2021:    https://www.linkedin.com/pulse/last-issue-2021-tim-spann/
+* 20-Dec-2021:    https://www.linkedin.com/pulse/happy-holidays-december-20-2021-tim-spann
+* 13-Dec-2021:    https://www.linkedin.com/pulse/week-december-13-2021-tim-spann
+* 6-Dec-2021:     https://www.linkedin.com/pulse/start-december-edition-tim-spann/
+* 29-Nov-2021:    https://www.linkedin.com/pulse/december-near-pizza-pulsar-tim-spann/
+* 22-Nov-2021:    https://www.linkedin.com/pulse/november-thanks-pulsar-giving-short-week-2021-tim-spann/
+* 15-Nov-2021:    https://www.linkedin.com/pulse/issue-3-november-15-2021-tim-spann/
+* 8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
+* 3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
 
 
 
