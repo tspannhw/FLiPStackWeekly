@@ -5,6 +5,11 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 * https://www.linkedin.com/newsletters/flip-stack-weekly-6861715928728576000/
 
+
+### Video Channel
+
+* https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
+
 ### List
 
 * 01-Aug-2022:    https://www.linkedin.com/pulse/august-2022-streaming-tim-spann-
