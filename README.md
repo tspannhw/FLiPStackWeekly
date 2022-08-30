@@ -1,5 +1,5 @@
 # FLiPStackWeekly
-FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spark and more...
+FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spark, Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
 ### Join
 
@@ -13,12 +13,12 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 ### List
 
 * 46: 29-Aug-2022:    https://www.linkedin.com/pulse/end-august-2022-tim-spann-
-* 23-Aug-2022:    https://www.linkedin.com/pulse/august-23-2022-report-tim-spann-/?published=t
-* 22-Aug-2022:    https://www.linkedin.com/pulse/pulsar-summit-2022-report-aug-19-tim-spann-
-* 16-Aug-2022:    https://www.linkedin.com/pulse/pulsar-summit-pre-report-2022-tim-spann-/
-* 14-Aug-2022:    https://www.linkedin.com/pulse/august-week-1-2022-tim-spann-/
-* 01-Aug-2022:    https://www.linkedin.com/pulse/august-2022-streaming-tim-spann-
-* 25-July-2022:   https://www.linkedin.com/pulse/streaming-heat-wave-july-25-2022-tim-spann-
+* 45: 23-Aug-2022:    https://www.linkedin.com/pulse/august-23-2022-report-tim-spann-/?published=t
+* 44: 22-Aug-2022:    https://www.linkedin.com/pulse/pulsar-summit-2022-report-aug-19-tim-spann-
+* 43: 16-Aug-2022:    https://www.linkedin.com/pulse/pulsar-summit-pre-report-2022-tim-spann-/
+* 42: 14-Aug-2022:    https://www.linkedin.com/pulse/august-week-1-2022-tim-spann-/
+* 41: 01-Aug-2022:    https://www.linkedin.com/pulse/august-2022-streaming-tim-spann-
+* 40: 25-July-2022:   https://www.linkedin.com/pulse/streaming-heat-wave-july-25-2022-tim-spann-
 * 18-July-2022:   https://www.linkedin.com/pulse/july-2022-tim-spann-
 * 11-July-2022:   https://www.linkedin.com/pulse/july-11-2022-streaming-news-tim-spann
 * 4-July-2022:    https://www.linkedin.com/pulse/july-2022-streaming-tim-spann
@@ -57,7 +57,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * 22-Nov-2021:    https://www.linkedin.com/pulse/november-thanks-pulsar-giving-short-week-2021-tim-spann/
 * 15-Nov-2021:    https://www.linkedin.com/pulse/issue-3-november-15-2021-tim-spann/
 * 8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
-* 3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
+* 01: 3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
 
 
-
+&copy; 2021, 2022 - Timothy Spann
