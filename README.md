@@ -61,3 +61,12 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 
 &copy; 2021, 2022 - Timothy Spann
+
+* https://dzone.com/users/297029/bunkertor.html
+* https://www.linkedin.com/pulse/2022-schedule-tim-spann
+* https://github.com/tspannhw/SpeakerProfile
+* https://linktr.ee/tspannhw
+* https://sessionize.com/tspann
+* https://twitter.com/paasdev
+* https://www.meetup.com/new-york-city-apache-pulsar-meetup/
+
