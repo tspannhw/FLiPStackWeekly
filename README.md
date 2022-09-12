@@ -12,6 +12,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
+* 48: 12-Sep-2022:    https://www.linkedin.com/pulse/flink-pulsar-september-12th-2022-tim-spann-
 * 47: 05-Sep-2022:    https://www.linkedin.com/pulse/its-already-september-2022-tim-spann-
 * 46: 29-Aug-2022:    https://www.linkedin.com/pulse/end-august-2022-tim-spann-
 * 45: 23-Aug-2022:    https://www.linkedin.com/pulse/august-23-2022-report-tim-spann-/?published=t
