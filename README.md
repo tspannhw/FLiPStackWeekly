@@ -48,26 +48,25 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * 22: 21-Mar-2022:    https://www.linkedin.com/pulse/march-21-2022-tim-spann-
 * 21: 14-Mar-2022:    https://www.linkedin.com/pulse/streaming-march-14-2022-tim-spann-
 * 20: 07-Mar-2022:    https://www.linkedin.com/pulse/march-7-2022-tim-spann
-* 28-Feb-2022:    https://www.linkedin.com/pulse/end-february-2022-tim-spann
-* 21-Feb-2022:    https://www.linkedin.com/pulse/feb-21-2022-streaming-us-presidents-day-tim-spann
-* 14-Feb-2022:    https://www.linkedin.com/pulse/valentines-day-streaming-tim-spann
-* 7-Feb-2022:     https://www.linkedin.com/pulse/february-7-2022-event-week-tim-spann
-* 15:  31-Jan-2022:    https://www.linkedin.com/pulse/week-january-31-2022-tim-spann
-* 24-Jan-2022:    https://www.linkedin.com/pulse/january-24-2022-flip-flink-pulsar-tim-spann
-* 17-Jan-2022:    https://www.linkedin.com/pulse/january-17-2022-pulsar-previews-tim-spann
-* 12:  10-Jan-2022:    https://www.linkedin.com/pulse/10-january-2022-streaming-tim-spann
-* 11:  3-Jan-2022:     https://www.linkedin.com/pulse/2022-first-week-updates-tim-spann
-* 10:  30-Dec-2021:    https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann
-* 09:  27-Dec-2021:    https://www.linkedin.com/pulse/last-issue-2021-tim-spann/
-* 08:  20-Dec-2021:    https://www.linkedin.com/pulse/happy-holidays-december-20-2021-tim-spann
-* 07:  13-Dec-2021:    https://www.linkedin.com/pulse/week-december-13-2021-tim-spann
-* 06:  6-Dec-2021:     https://www.linkedin.com/pulse/start-december-edition-tim-spann/
-* 05:  29-Nov-2021:    https://www.linkedin.com/pulse/december-near-pizza-pulsar-tim-spann/
-* 04:  22-Nov-2021:    https://www.linkedin.com/pulse/november-thanks-pulsar-giving-short-week-2021-tim-spann/
-* 03:  15-Nov-2021:    https://www.linkedin.com/pulse/issue-3-november-15-2021-tim-spann/
-* 02:  8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
-* 01:  3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
-
+* 19: 28-Feb-2022:    https://www.linkedin.com/pulse/end-february-2022-tim-spann
+* 18: 21-Feb-2022:    https://www.linkedin.com/pulse/feb-21-2022-streaming-us-presidents-day-tim-spann
+* 17: 14-Feb-2022:    https://www.linkedin.com/pulse/valentines-day-streaming-tim-spann
+* 16: 7-Feb-2022:     https://www.linkedin.com/pulse/february-7-2022-event-week-tim-spann
+* 15: 31-Jan-2022:    https://www.linkedin.com/pulse/week-january-31-2022-tim-spann
+* 14: 24-Jan-2022:    https://www.linkedin.com/pulse/january-24-2022-flip-flink-pulsar-tim-spann
+* 13: 17-Jan-2022:    https://www.linkedin.com/pulse/january-17-2022-pulsar-previews-tim-spann
+* 12: 10-Jan-2022:    https://www.linkedin.com/pulse/10-january-2022-streaming-tim-spann
+* 11: 3-Jan-2022:     https://www.linkedin.com/pulse/2022-first-week-updates-tim-spann
+* 10: 30-Dec-2021:    https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann
+* 09: 27-Dec-2021:    https://www.linkedin.com/pulse/last-issue-2021-tim-spann/
+* 08: 20-Dec-2021:    https://www.linkedin.com/pulse/happy-holidays-december-20-2021-tim-spann
+* 07: 13-Dec-2021:    https://www.linkedin.com/pulse/week-december-13-2021-tim-spann
+* 06: 6-Dec-2021:     https://www.linkedin.com/pulse/start-december-edition-tim-spann/
+* 05: 29-Nov-2021:    https://www.linkedin.com/pulse/december-near-pizza-pulsar-tim-spann/
+* 04: 22-Nov-2021:    https://www.linkedin.com/pulse/november-thanks-pulsar-giving-short-week-2021-tim-spann/
+* 03: 15-Nov-2021:    https://www.linkedin.com/pulse/issue-3-november-15-2021-tim-spann/
+* 02: 8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
+* 01: 3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
 
 &copy; 2021, 2022 - Timothy Spann
 
