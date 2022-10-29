@@ -12,6 +12,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
+* 55: 28-Oct-2022:    https://www.linkedin.com/pulse/kubecon-wrap-up-halloween-time-tim-spann-
 * 54: 22-Oct-2022:    https://www.linkedin.com/pulse/kubecon-real-time-more-tim-spann-
 * 53: 16-Oct-2022:    https://www.linkedin.com/pulse/october-2022-week-2-tim-spann-
 * 52: 08-Oct-2022:    https://www.linkedin.com/pulse/apachecon-current-event-week-first-oct-2022-tim-spann-
@@ -54,18 +55,18 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * 15:  31-Jan-2022:    https://www.linkedin.com/pulse/week-january-31-2022-tim-spann
 * 24-Jan-2022:    https://www.linkedin.com/pulse/january-24-2022-flip-flink-pulsar-tim-spann
 * 17-Jan-2022:    https://www.linkedin.com/pulse/january-17-2022-pulsar-previews-tim-spann
-* 10-Jan-2022:    https://www.linkedin.com/pulse/10-january-2022-streaming-tim-spann
-* 3-Jan-2022:     https://www.linkedin.com/pulse/2022-first-week-updates-tim-spann
+* 12:  10-Jan-2022:    https://www.linkedin.com/pulse/10-january-2022-streaming-tim-spann
+* 11:  3-Jan-2022:     https://www.linkedin.com/pulse/2022-first-week-updates-tim-spann
 * 10:  30-Dec-2021:    https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann
-* 27-Dec-2021:    https://www.linkedin.com/pulse/last-issue-2021-tim-spann/
-* 20-Dec-2021:    https://www.linkedin.com/pulse/happy-holidays-december-20-2021-tim-spann
-* 13-Dec-2021:    https://www.linkedin.com/pulse/week-december-13-2021-tim-spann
-* 6-Dec-2021:     https://www.linkedin.com/pulse/start-december-edition-tim-spann/
-* 05: 29-Nov-2021:    https://www.linkedin.com/pulse/december-near-pizza-pulsar-tim-spann/
-* 04: 22-Nov-2021:    https://www.linkedin.com/pulse/november-thanks-pulsar-giving-short-week-2021-tim-spann/
-* 03: 15-Nov-2021:    https://www.linkedin.com/pulse/issue-3-november-15-2021-tim-spann/
-* 02: 8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
-* 01: 3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
+* 09:  27-Dec-2021:    https://www.linkedin.com/pulse/last-issue-2021-tim-spann/
+* 08:  20-Dec-2021:    https://www.linkedin.com/pulse/happy-holidays-december-20-2021-tim-spann
+* 07:  13-Dec-2021:    https://www.linkedin.com/pulse/week-december-13-2021-tim-spann
+* 06:  6-Dec-2021:     https://www.linkedin.com/pulse/start-december-edition-tim-spann/
+* 05:  29-Nov-2021:    https://www.linkedin.com/pulse/december-near-pizza-pulsar-tim-spann/
+* 04:  22-Nov-2021:    https://www.linkedin.com/pulse/november-thanks-pulsar-giving-short-week-2021-tim-spann/
+* 03:  15-Nov-2021:    https://www.linkedin.com/pulse/issue-3-november-15-2021-tim-spann/
+* 02:  8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
+* 01:  3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
 
 
 &copy; 2021, 2022 - Timothy Spann
@@ -77,4 +78,3 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * https://sessionize.com/tspann
 * https://twitter.com/paasdev
 * https://www.meetup.com/new-york-city-apache-pulsar-meetup/
-
