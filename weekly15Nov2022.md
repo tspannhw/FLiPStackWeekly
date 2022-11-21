@@ -1,8 +1,15 @@
-**November 15-19, 2022 FLiP Stack Weekly**
+# November 15-19, 2022 FLiP Stack Weekly
 
-More talks coming this month!
+
+#### More talks coming this month!   Join Tim around the virtual world at various conferences.   
+
+
+![MerryChristmas](https://github.com/tspannhw/FLiPStackWeekly/raw/main/images/merrychristmasflipstack.jpg)
+
 
 ### Podcast
+
+Take a look at recent podcasts in audio or video format.
 
 [https://www.buzzsprout.com/2062659/11463086-messaging-streaming-and-events-101-episode-1-of-crossing-the-streams](https://www.buzzsprout.com/2062659/11463086-messaging-streaming-and-events-101-episode-1-of-crossing-the-streams)
 
@@ -11,7 +18,7 @@ More talks coming this month!
 ### CODE + COMMUNITY
 
 
-Join my meetup group NJ/NYC/Philly/Virtual:
+Join my meetup group NJ/NYC/Philly/Virtual.   We will have a hybrid event on December 8th.
 
 [https://www.meetup.com/new-york-city-apache-pulsar-meetup/](https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 )
@@ -28,6 +35,8 @@ Join my meetup group NJ/NYC/Philly/Virtual:
 I’ll be speaking at #PulsarSummit Asia 2022! Join the #ApachePulsar community and RSVP for the webinar: https://streamnative.zoom.us/webinar/register/8516668631400/WN_qKibcbEFTxKv6-MszyFeAg.
 
 ![Pulsar 101](https://github.com/tspannhw/FLiPStackWeekly/raw/main/images/Timothy%20Spann%20101.jpg)
+
+*.  
 
 ![ModernApps](https://github.com/tspannhw/FLiPStackWeekly/raw/main/images/Timothy%20Spann.jpg)
 
@@ -52,19 +61,53 @@ I’ll be speaking at #PulsarSummit Asia 2022! Join the #ApachePulsar community 
 
 [https://github.com/spring-projects-experimental/spring-pulsar/wiki/Stream-Native-Cloud](https://github.com/spring-projects-experimental/spring-pulsar/wiki/Stream-Native-Cloud)
 
+[https://spring.io/blog/2022/11/16/spring-framework-6-0-goes-ga](https://spring.io/blog/2022/11/16/spring-framework-6-0-goes-ga)
+
 
 ### CODE
+
+[https://pulsar.apache.org/release-notes/versioned/client-cpp-3.0.0/](https://pulsar.apache.org/release-notes/versioned/client-cpp-3.0.0/)
 
 [https://github.com/tspannhw/spring-pulsar-gtfsrealtime](https://github.com/tspannhw/spring-pulsar-gtfsrealtime)
 
 [https://github.com/tspannhw/FLiPN-FLaNK-KafkaConnectToMoP](https://github.com/tspannhw/FLiPN-FLaNK-KafkaConnectToMoP)
 
+[https://github.com/tspannhw/pulsar-adsb-cockroachdb](https://github.com/tspannhw/pulsar-adsb-cockroachdb)
+
+[https://github.com/tspannhw/pulsar-adsb-function](https://github.com/tspannhw/pulsar-adsb-function)
+
 
 ### ARTICLES
+
+[https://www.mparticle.com/blog/apache-pulsar-migration/](https://www.mparticle.com/blog/apache-pulsar-migration/)
+
+[https://streamnative.io/blog/case/2022-11-15-how-proxima-beta-implemented-cqrs-and-event-sourcing-on-top-of-apache-pulsar-and-scylladb/](https://streamnative.io/blog/case/2022-11-15-how-proxima-beta-implemented-cqrs-and-event-sourcing-on-top-of-apache-pulsar-and-scylladb/)
 
 [https://medium.com/@tspann/gtfs-real-time-feed-ingest-with-java-67e0d324cfc4](https://medium.com/@tspann/gtfs-real-time-feed-ingest-with-java-67e0d324cfc4)
 
 [https://www.immerok.io/blog/apache-flink-newsletter-nov-2022](https://www.immerok.io/blog/apache-flink-newsletter-nov-2022)
+
+[https://nvidianews.nvidia.com/news/nvidia-microsoft-accelerate-cloud-enterprise-ai](https://nvidianews.nvidia.com/news/nvidia-microsoft-accelerate-cloud-enterprise-ai)
+
+[https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/](https://verraes.net/2019/05/patterns-for-decoupling-distsys-passage-of-time-event/)
+
+[https://streamnative.io/blog/community/2022-11-04-announcing-pulsar-summit-asia-2022-conference-schedule/](https://streamnative.io/blog/community/2022-11-04-announcing-pulsar-summit-asia-2022-conference-schedule/)
+
+[https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533231](https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533231)
+
+
+### TRAINING
+
+Dates are Dec 5 - Dec 8, 2022
+
+Link to register: [https://www.eventbrite.com/e/463731161387](https://www.eventbrite.com/e/463731161387)
+
+
+Dates are January 17 - 19, 2023 from 2pm - 5pm CET / 8am - 12pm EST
+Link to register: [https://www.eventbrite.com/e/465055021087](https://www.eventbrite.com/e/465055021087)
+
+[https://streamnative.io/training/](https://streamnative.io/training/)
+
 
 
 ### EVENTS
@@ -84,7 +127,10 @@ Nov 29, 2022: Machine Intelligence Guild Speaker of the Month. Virtual.
 
 Coming soon.
 
-Dec 8, 2022: TigerLabs, Princeton, NJ: Pulsar + NiFi + Flink Meetup
+Dec 14, 2022: Manhattan, NYC:  Pulsar + Pinot Meetup
+
+
+Dec 15, 2022: TigerLabs, Princeton, NJ: Pulsar + NiFi + Flink Meetup
 
 [https://www.meetup.com/technologysolutionshub/events/289756167/](https://www.meetup.com/technologysolutionshub/events/289756167/)
 
@@ -95,6 +141,8 @@ Coming soon.
 **Pinot / Pulsar Meetup**
 
 Coming soon.
+
+**CockroachDB NYC Meetup**
 
 
 **Hazelcast Event**
@@ -120,11 +168,30 @@ Coming soon.
 
 * [https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg)
 
+* [https://pomochat.com/](https://pomochat.com/)
+
+* [https://github.com/enso-org/enso](https://github.com/enso-org/enso)
+
+* [https://github.com/streamnative/pulsar-io-cloud-storage](https://github.com/streamnative/pulsar-io-cloud-storage)
+
+* [https://github.com/FusionAuth/java-http](https://github.com/FusionAuth/java-http)
+
+* [https://github.com/containers/podman-desktop](https://github.com/containers/podman-desktop)
+
+* [https://github.com/cachix/devenv](https://github.com/cachix/devenv)
+
+* [https://devenv.sh/](https://devenv.sh/)
+
+* [https://teropa.info/musicmouse/](https://teropa.info/musicmouse/)
+
+
+#### Blast from the Past
+
+[https://www.youtube.com/watch?v=tnWq8opMI6s](https://www.youtube.com/watch?v=tnWq8opMI6s)
 
 
 
-
-### QUICK SCRIPTS
+#### QUICK SCRIPTS
 
 
 curl http://localhost:8080/admin/v2/clusters/standalone
