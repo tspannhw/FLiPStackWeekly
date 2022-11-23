@@ -12,7 +12,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
-* 59: 23-Nov-2022:    https://medium.com/@tspann/flip-stack-november-21-23-2022-98b6d6eef596 https://github.com/tspannhw/FLiPStackWeekly/blob/main/23Nov2022.md
+* 59: 23-Nov-2022:    https://medium.com/@tspann/flip-stack-november-21-23-2022-98b6d6eef596 https://github.com/tspannhw/FLiPStackWeekly/blob/main/23Nov2022.md https://www.linkedin.com/pulse/flip-stack-weekly-nov-21-23-2022-tim-spann-
 * 58: 21-Nov-2022:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/weekly15Nov2022.md https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 * 57: 11-Nov-2022:    https://www.linkedin.com/pulse/flipstack-november-13-2022-tim-spann-
 * 56: 04-Nov-2022:    https://www.linkedin.com/pulse/november-month-talks-tim-spann-
