@@ -12,6 +12,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
+* 64: 22-Dec-2022:    
 * 63: 19-Dec-2022:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/19Dec2022.md https://dev.to/tspannhw/flip-stack-weekly-19-dec-2022-2gjn https://medium.com/@tspann/flip-stack-weekly-for-19-dec-2022-56d5db7d6baf https://timwithpulsar.hashnode.dev/flip-into-december-19-2022 https://www.linkedin.com/pulse/happy-holidays-week-dec-19-2022-tim-spann-
 * 62: 11-Dec-2022:    https://dev.to/tspannhw/dec-12-2022-flip-stack-weekly-bk7 https://github.com/tspannhw/FLiPStackWeekly/blob/main/12dec2022.md https://timwithpulsar.hashnode.dev/dec-12-2022-flip-stack-weekly https://medium.com/@tspann/dec-12-2022-flip-stack-weekly-ab4124f77d51 https://www.linkedin.com/pulse/dec-12-2022-flip-stack-weekly-tim-spann-
 * 61: 03-Dec-2022:    https://dev.to/tspannhw/december-5-2022-flip-stack-weekly-4536 https://github.com/tspannhw/FLiPStackWeekly/blob/main/05dec2022.md https://medium.com/@tspann/flip-stack-weekly-for-5-december-2022-aa0ce518a2e2 https://www.linkedin.com/pulse/streaming-december-5-2022-tim-spann-?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3BHxRAms%2BgSqO32CuUe3PlSw%3D%3D
