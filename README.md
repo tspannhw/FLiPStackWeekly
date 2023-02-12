@@ -12,6 +12,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
+* 70: 13-Feb-2023:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/13Feb2023.md
 * 69: 06-Feb-2023:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/06Feb2023.md https://medium.com/@tspann/flip-stack-weekly-for-february-6-2023-8e1cdfe090ab https://timwithpulsar.hashnode.dev/flip-stack-weekly-for-06-february-2023 https://www.linkedin.com/pulse/flip-stack-weekly-february-6-2023-tim-spann- https://www.linkedin.com/pulse/flip-stack-weekly-february-6-2023-tim-spann-/?published=t
 * 68: 28-Jan-2023:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/28jan2023.md https://medium.com/@tspann/pulsarflip-stack-weekly-28-jan-2023-e7fa331a4ea5 https://www.datainmotion.dev/2023/01/flip-stack-weekly-28-jan-2023.html https://hashnode.com/edit/cldhgcwwl000o09l9fold40az
 
