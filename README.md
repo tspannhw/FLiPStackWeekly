@@ -1,5 +1,5 @@
-# FLiPStackWeekly
-FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spark, Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
+# FLiPNFLaNKStackWeekly
+FLiP Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
 ### Join
 
@@ -86,7 +86,7 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * 02: 8-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-2nd-week-november-2021-tim-spann/
 * 01: 3-Nov-2021:     https://www.linkedin.com/pulse/flip-stack-news-early-november-2021-tim-spann/
 
-&copy; 2021, 2022 - Timothy Spann
+&copy; 2021, 2022, 2023 - Timothy Spann
 
 * https://dzone.com/users/297029/bunkertor.html
 * https://www.linkedin.com/pulse/2022-schedule-tim-spann
@@ -95,3 +95,4 @@ FLiP Stack Weekly covering Apache Pulsar, Apache Flink, Apache NiFi, Apache Spar
 * https://sessionize.com/tspann
 * https://twitter.com/paasdev
 * https://www.meetup.com/new-york-city-apache-pulsar-meetup/
+* https://www.datainmotion.dev/
