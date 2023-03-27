@@ -12,7 +12,7 @@ FLiP Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark
 
 ### List
 
-* 76: 27-Mar-2023:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/27March2023.md
+* 76: 27-Mar-2023:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/27March2023.md https://medium.com/@tspann/flank-stack-wee-e3fe09c9cfe9 https://timwithpulsar.hashnode.dev/flank-stack-for-27-march-2023 https://www.datainmotion.dev/2023/03/flank-stack-weekly-for-27-march-2023.html https://dev.to/tspannhw/flank-stack-weekly-27-march-2023-26e4 https://www.linkedin.com/pulse/flank-stack-27-march-2023-tim-spann-
 
 * 75: 20-Mar-2023:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/20March2023.md https://medium.com/@tspann/flipn-flank-stack-weekly-for-20-march-2023-dc2c34660baa https://dev.to/tspannhw/flipn-flank-stack-weekly-for-20-march-2023-5d5m https://www.datainmotion.dev/2023/03/flipn-flank-stack-weekly-for-20-march.html https://www.linkedin.com/pulse/flipn-flank-stack-weekly-20-march-2023-tim-spann- https://timwithpulsar.hashnode.dev/flipn-flank-stack-weekly-for-20-march-2023
 
