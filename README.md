@@ -12,6 +12,10 @@ FLiP Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark
 
 ### List
 
+* 96: 31-july-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/31July2023.md
+
+* 95: 24-july-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/24July2023.md https://www.datainmotion.dev/2023/07/flank-stack-weekly-for-24-july-2023.html  https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-24-july-2023 https://dev.to/tspannhw/flank-stack-weekly-for-24-july-2023-40kf https://medium.com/@tspann/flank-stack-weekly-for-24-july-2023-1b0b6546293c https://www.linkedin.com/pulse/flank-stack-weekly-24-july-2023-tim-spann-
+  
 * 94: 17-july-2023:  https://dev.to/tspannhw/flank-stack-weekly-for-17-july-2023-256c https://github.com/tspannhw/FLiPStackWeekly/blob/main/17July2023.md https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-17-july-2023 https://www.linkedin.com/pulse/flank-stack-weekly-july-17-2023-tim-spann- https://medium.com/@tspann/flank-sta-844eb57a1e85 
  
 * 93: 10-July-2023:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/10July2023.md https://dev.to/tspannhw/flank-stack-weekly-for-10-july-2023-2a2h  https://www.datainmotion.dev/2023/07/flank-stack-weekly-for-10-july-2023.html https://timwithpulsar.hashnode.dev/flank-stack-for-10-july-2023 https://medium.com/@tspann/flank-stack-for-10-july-2023-386ee6532aaa https://www.linkedin.com/pulse/flank-stack-weekly-10-july-2023-tim-spann-
