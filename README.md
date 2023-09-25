@@ -12,6 +12,8 @@ FLiP Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark
 
 ### List
 
+* 104: 25-September-2023:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/104-25Sept2023.md 
+
 * 103: 18-September-2023:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/103-18Sept2023.md  https://dev.to/tspannhw/flank-stack-weekly-18-september-2023-3j56   https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-18-september-2023  https://www.datainmotion.dev/2023/09/flank-stack-weekly-for-18-september-2023.html https://medium.com/@tspann/flank-stack-weekly-for-18-september-2023-3a4b56870300  https://www.linkedin.com/pulse/flank-stack-weekly-18-september-2023-tim-spann-
 
   
