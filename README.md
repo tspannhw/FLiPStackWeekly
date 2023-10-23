@@ -12,7 +12,10 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
-* 108: 23-October-2023:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/108-23Oct2023.md  
+* 109: 30-October-2023:  Halloween Edition  https://github.com/tspannhw/FLiPStackWeekly/blob/main/109-30Oct2023.md 
+  
+* 108: 23-October-2023:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/108-23Oct2023.md  https://dev.to/tspannhw/flank-stack-weekly-23-oct-2023-17ej  https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-23-october-2023   https://www.datainmotion.dev/2023/10/flank-stack-weekly-23-october-2023.html   https://medium.com/@tspann/flank-stack-weekly-for-23-october-2023-ea40b4b408f6   https://www.linkedin.com/pulse/flank-stack-weekly-23-october-2023-tim-spann--siv8e
+  
   
 * 107: 16-October-2023:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/107-16Oct2023.md   https://medium.com/@tspann/flank-stack-f-cabf95601a31   https://dev.to/tspannhw/flank-stack-weekly-16-october-2023-3md  https://timwithpulsar.hashnode.dev/flank-stack-weekly-16-oct-2023   https://www.linkedin.com/pulse/flank-stack-weekly-16-oct-2023-tim-spann--cbmie
 
