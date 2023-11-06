@@ -1,4 +1,5 @@
 # FLiPNFLaNKStackWeekly
+
 FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
 ### Join
@@ -12,7 +13,7 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
-* 110: 06-November-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/110-06Nov2023.md
+* 110: 06-November-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/110-06Nov2023.md  https://dev.to/tspannhw/flank-stack-weekly-06-nov-2023-3f4e   https://timwithpulsar.hashnode.dev/flank-stack-weekly-06-november-2023   https://medium.com/@tspann/flank-stack-weekly-for-6-november-2023-fc261ffda162   https://www.datainmotion.dev/2023/11/flank-stack-weekly-for-06-november-2023.html  https://www.linkedin.com/pulse/flank-stack-weekly-nov-6-2023-tim-spann--4u5qe
 
 * 109: 30-October-2023:  Halloween Edition  https://github.com/tspannhw/FLiPStackWeekly/blob/main/109-30Oct2023.md https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-30-october-2023 https://medium.com/@tspann/flank-adc2d2ab298f https://dev.to/tspannhw/flank-stack-weekly-for-30-oct-2023-1afc https://www.datainmotion.dev/2023/10/flank-stack-weekly-for-30-oct-2023.html  https://www.linkedin.com/pulse/flank-stack-weekly-30-october-2023-tim-spann--gwdle
   
