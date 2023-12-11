@@ -14,12 +14,12 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 ### List
 
 * 118: 31-December-2023:  Year End Wrap-Up.
-* 
+  
 * 117: 25-December-2023:
   
 * 116: 18-December-2023:
   
-* 115: 11-December-2023:
+* 115: 11-December-2023:   https://www.datainmotion.dev/2023/12/flank-weekly-for-11-december-2023.html   https://github.com/tspannhw/FLiPStackWeekly/blob/main/115-11Dec2023.md https://dev.to/tspannhw/flank-stack-weekly-11-dec-2023-1mj0 https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-11-december-2023  https://www.linkedin.com/pulse/flank-weekly-11-december-2023-tim-spann--ilsee
   
 * 114: 04-December-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/114-04Dec2023.md   https://dev.to/tspannhw/flank-stack-for-04-december-2023-3jbf    https://timwithpulsar.hashnode.dev/flank-stack-weekly-04-december-2023   https://medium.com/@tspann/flank-stack-04-december-2023-e7f1e29feccc  https://www.linkedin.com/pulse/flank-stack-weekly-04-dec-2023-tim-spann--3czfc  https://www.datainmotion.dev/2023/12/flank-stack-weekly-for-04-december-2023.html  
   
