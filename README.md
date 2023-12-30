@@ -1,6 +1,6 @@
-# FLiPNFLaNKStackWeekly
+# FLiP N FLaNK Stack / Federation Weekly
 
-FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
+FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Paimon, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
 ### Join
 
