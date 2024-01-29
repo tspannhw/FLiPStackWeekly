@@ -13,9 +13,13 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
+* 125: 19-February-2024:
+  
+* 124: 12-February-2024:
+  
 * 123: 05-February-2024:
   
-* 122: 29-January-2024:
+* 122: 29-January-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/122-29Jan2024.md
   
 * 121: 22-January-2024: https://github.com/tspannhw/FLiPStackWeekly/blob/main/121-22Jan2024.md https://timwithpulsar.hashnode.dev/flank-weekly-for-22-january-2024 https://medium.com/@tspann/flank-weekly-22-jan-2024-546dddaaa3af https://www.datainmotion.dev/2024/01/flank-stack-weekly-for-22-january-2024.html https://dev.to/tspannhw/flank-stack-weekly-22-january-2024-4i93 https://www.linkedin.com/pulse/flank-weekly-22-january-2024-tim-spann--lmmze
   
