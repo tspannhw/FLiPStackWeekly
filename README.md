@@ -27,7 +27,7 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
   
 * 129: 18-March-2024
   
-* 128: 11-March-2024
+* 128: 11-March-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/128-11March2024.md   https://dev.to/tspannhw/flank-ai-for-11-march-2024-2gkf  https://timwithpulsar.hashnode.dev/flank-ai-for-11-march-2024 https://www.datainmotion.dev/2024/03/flank-ai-for-11-march-2024.html https://medium.com/@tspann/flank-ai-for-11-march-2024-ca2f785a41d5 https://open.substack.com/pub/flank/p/flank-ai-for-11-march-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true https://www.linkedin.com/pulse/flank-ai-11-march-2024-tim-spann--ajume
   
 * 127: 04-March-2024: https://github.com/tspannhw/FLiPStackWeekly/blob/main/127-04March2024.md https://timwithpulsar.hashnode.dev/flank-stack-for-04-march-2024  https://www.linkedin.com/pulse/flank-stack-04-march-2024-tim-spann--bvbde  https://dev.to/tspannhw/flank-04-march-2024-4c2i  https://www.datainmotion.dev/2024/03/flank-stack-04-march-2024.html  https://medium.com/@tspann/flank-stack-04-march-2024-b62ed52b86b4 https://flank.substack.com/p/flank-weekly-04-march-2024 
   
