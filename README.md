@@ -15,7 +15,7 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 * 135: 29-April-2024:
   
-* 134: 22-April-2024:
+* 134: 22-April-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/134-22April2024.md  
   
 * 133: 15-April-2024: NLIT Wrap-Up Edition:    https://timwithpulsar.hashnode.dev/flank-ai-15-april-2024  https://dev.to/tspannhw/flank-ai-15-april-2024-54hi  https://open.substack.com/pub/flankstack/p/flank-ai-for-15-april-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://www.datainmotion.dev/2024/04/flank-ai-15-april-2024.html  https://github.com/tspannhw/FLiPStackWeekly/blob/main/133-15April2024.md  https://www.linkedin.com/pulse/flank-ai-pattern-15-april-2024-tim-spann--28eae  https://medium.com/@tspann/flank-ai-15-april-2024-3be8f7176959 
   
