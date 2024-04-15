@@ -6,6 +6,7 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 * https://www.linkedin.com/newsletters/flip-stack-weekly-6861715928728576000/
 
+![image](https://github.com/tspannhw/FLiPStackWeekly/assets/18673814/9a119ee9-c8aa-455e-8502-41c711e4dacf)
 
 ### Video Channel
 
