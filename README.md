@@ -13,9 +13,11 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
+* 140: -June-2024:
+  
 * 139: 27-May-2024:
   
-* 138: 20-May-2024:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/138-20May2024.md
+* 138: 20-May-2024:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/138-20May2024.md https://medium.com/@tspann/flank-aim-weekly-20-may-2024-427860115faa https://medium.com/@tspann/flank-aim-weekly-20-may-2024-427860115faa  https://open.substack.com/pub/flank/p/flank-aim-20-may-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://dev.to/tspannhw/flank-aim-20-may-2024-weekly-4la8  https://www.linkedin.com/pulse/flank-aim-20-may-2024-weekly-tim-spann--ac0te  https://timwithpulsar.hashnode.dev/flank-aim-20-may-2024-weekly  
   
 * 137: 13-May-2024:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/137-13May2024.md  https://dev.to/tspannhw/flank-aim-weekly-13-may-2024-2ih2  https://timwithpulsar.hashnode.dev/flank-aim-13-may-2024   https://www.datainmotion.dev/2024/05/flank-aim-13-may-2024.html   https://www.flankstack.dev/  https://www.opensourcevectordb.cloud/  https://www.linkedin.com/pulse/flank-aim-13-may-2024-tim-spann--wn7ce  https://medium.com/@tspann/flank-aim-13-may-2024-15ff0d052f6d  https://flankstack.substack.com/p/flank-aim-13-may-2024?sd=pf  
   
