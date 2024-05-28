@@ -13,7 +13,7 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 
 ### List
 
-* 140: 03-June-2024:  
+* 140: 03-June-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/140-03June2024.md
   
 * 139: 27-May-2024:    Zilliz!    https://github.com/tspannhw/FLiPStackWeekly/blob/main/139-27May2024.md   https://www.linkedin.com/pulse/aim-weekly-27-may-2024-tim-spann--get8e  https://dev.to/tspannhw/aim-weekly-27-may-2024-2om0   https://open.substack.com/pub/flank/p/aim-weekly-27-may-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://www.linkedin.com/pulse/aim-weekly-27-may-2024-tim-spann--get8e  https://medium.com/@tspann/aim-weekly-27-may-2024-milvus-1f0cacbf8ef1  https://www.datainmotion.dev/2024/05/aim-weekly-27-may-2024.html
   
