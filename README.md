@@ -1,6 +1,6 @@
-# FLiP N FLaNK Stack / Federation / Pattern Weekly
+# FLiP N FLaNK AiM Stack / Federation / Pattern Weekly
 
-FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Paimon, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
+AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data Processing, Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Paimon, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
 ### Join
 
@@ -10,6 +10,7 @@ FLaNK Stack Weekly covering Apache Kafka, Apache Flink, Apache NiFi, Apache Spar
 ### Video Channel
 
 * https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
+* https://www.youtube.com/@FLaNK-Stack
 
 ### List
 
