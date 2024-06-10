@@ -20,7 +20,7 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
   
 * 142: 17-June-2024:
   
-* 141: 10-June-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/141-10June2024.md
+* 141: 10-June-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/141-10June2024.md  https://open.substack.com/pub/flank/p/aim-weekly-10-june-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.datainmotion.dev/2024/06/aim-weekly-for-10-june-2024.html  https://timwithpulsar.hashnode.dev/aim-weekly-for-10-june-2024  https://www.linkedin.com/pulse/aim-weekly-10-june-2024-tim-spann--d8oge  https://dev.to/tspannhw/aim-weekly-for-10-june-2024-3op7  https://medium.com/@tspann/aim-weekly-for-10-june-2024-852bdbf90efd  
   
 * 140: 03-June-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/140-03June2024.md  https://www.linkedin.com/pulse/aim-weekly-03-june-2024-tim-spann--zkioe  https://dev.to/tspannhw/aim-weekly-03-june-2024-13gb  https://timwithpulsar.hashnode.dev/aim-weekly-03-june-2024  https://www.datainmotion.dev/2024/06/aim-weekly-03-june-2024.html   https://medium.com/@tspann/aim-weekly-03-june-2024-a0b0cec2b56a?sk=b234f2d0024dfba3a97834a295bae730  https://open.substack.com/pub/flankstack/p/aim-weekly-03-june-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  
   
