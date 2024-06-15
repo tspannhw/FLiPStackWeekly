@@ -14,11 +14,19 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
 
 ### List
 
+* 148: 29-July-2024
+  
+* 147: 22-July-2024:
+
+* 146: 15-July-2024:
+  
+* 145: 08-July-2024:
+
 * 144: 01-July-2024:
   
 * 143: 24-June-2024:
   
-* 142: 17-June-2024:
+* 142: 17-June-2024:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/142-17June2024.md
   
 * 141: 10-June-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/141-10June2024.md  https://open.substack.com/pub/flank/p/aim-weekly-10-june-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.datainmotion.dev/2024/06/aim-weekly-for-10-june-2024.html  https://timwithpulsar.hashnode.dev/aim-weekly-for-10-june-2024  https://www.linkedin.com/pulse/aim-weekly-10-june-2024-tim-spann--d8oge  https://dev.to/tspannhw/aim-weekly-for-10-june-2024-3op7  https://medium.com/@tspann/aim-weekly-for-10-june-2024-852bdbf90efd  
   
