@@ -14,11 +14,15 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
 
 ### List
 
-* 148: 29-July-2024
+* 150: 12-August-2024:
   
-* 147: 22-July-2024:
+* 149: 05-August-2024:
+  
+* 148: 29-July-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/148-29July2024.md 
+  
+* 147: 22-July-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/147-22July2024.md 
 
-* 146: 15-July-2024:
+* 146: 15-July-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/146-15July2024.md
   
 * 145: 08-July-2024:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/145-08July2024.md
  
