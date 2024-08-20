@@ -1,4 +1,4 @@
-### TL;DR 
+#### TL;DR 
 
 
 🐍 O     <br/>
@@ -13,18 +13,18 @@
 🖥️ AI   <br/>
 
 
-** Upcoming
+#### Upcoming
 
 🎙️ Podcast     <br/>
 🔄 Search      <br/>
 📊 Data @ Tim  <br/>
 🌐 Milvus + Stuff <br/>
 
-** Last Week
+#### Last Week
 
 🖥️ Meetup<br/>
 
-** Notebooks, projects, apps, examples and demos
+#### Notebooks, projects, apps, examples and demos
 
 🚀 Stuff by @ Tim <br/>
 
