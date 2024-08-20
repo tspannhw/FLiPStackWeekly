@@ -38,7 +38,7 @@ x
 🎧
 🎹
 ⌨️
-📼
+📼 [Structured Document Extraction At Scale (Webinar)](https://zilliz.com/event/challenges-in-structured-doc-data-extraction-at-scale-with-llms) <br/> 
 🍿
 🍔
 🍕
