@@ -3,28 +3,32 @@
 
 🐍 O     <br/>
 🤖 A     <br/>
-🧪 A     <br/><br/>
-🧩 A     <br/><br/>
-🧩 A     <br/><br/>
-🤝 A by @Tspann<br/><br/>
-🧠 X      <br/><br/>
-🎛️ Y       <br/><br/>
-🦸‍♂️ Z<br/><br/>
-🖥️ AI<br/><br/>
+🧪 A     <br/>
+🧩 A     <br/>
+🧩 A     <br/>
+🤝 A by @Tspann<br/>
+🧠 X      <br/>
+🎛️ Y       <br/>
+🦸‍♂️ Z    <br/>
+🖥️ AI   <br/>
 
 
 ** Upcoming
 
-🎙️ Podcast
-🔄 Search
-📊 Data @ Tim
-🌐 Milvus + Stuff
+🎙️ Podcast     <br/>
+🔄 Search      <br/>
+📊 Data @ Tim  <br/>
+🌐 Milvus + Stuff <br/>
 
 ** Last Week
 
-🖥️ Meetup
+🖥️ Meetup<br/>
 
 ** Notebooks, projects, apps, examples and demos
 
-🚀 Stuff by @ Tim 
+🚀 Stuff by @ Tim <br/>
+
+
+
+
 
