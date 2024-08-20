@@ -1,8 +1,8 @@
 ** TL;DR 
 
 
-🐍 O     <br/><br/>
-🤖 A     <br/><br/>
+🐍 O     <br/>
+🤖 A     <br/>
 🧪 A     <br/><br/>
 🧩 A     <br/><br/>
 🧩 A     <br/><br/>
