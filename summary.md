@@ -22,7 +22,7 @@
 
 #### Last Week
 
-🖥️ Meetup<br/>
+🖥️ [AI Camp Meetup](https://medium.com/@tspann/report-15-august-2025-ai-camp-45e2b5d87838) @ MS Reactor NYC<br/>
 
 #### Notebooks, projects, apps, examples and demos
 
