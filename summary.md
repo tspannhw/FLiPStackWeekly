@@ -1,16 +1,17 @@
 ** TL;DR 
 
-````
-🐍 O
-🤖 A
-🧪 A
-🧩 A
-🤝 A by @Tspann
-🧠 X
-🎛️ Y
-🦸‍♂️ Z
-🖥️ AI
-````
+
+🐍 O     <br/><br/>
+🤖 A     <br/><br/>
+🧪 A     <br/><br/>
+🧩 A     <br/><br/>
+🧩 A     <br/><br/>
+🤝 A by @Tspann<br/><br/>
+🧠 X      <br/><br/>
+🎛️ Y       <br/><br/>
+🦸‍♂️ Z<br/><br/>
+🖥️ AI<br/><br/>
+
 
 ** Upcoming
 
