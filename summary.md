@@ -28,7 +28,21 @@
 
 #### Notebooks, projects, apps, examples and demos
 
-🚀 Stuff by @ Tim <br/>
+🚀 [Air Quality Applications & Notebook](https://github.com/tspannhw/AIM-AirQuality) by @ Tim Spann <br/>
+🤖 
+👾
+👽
+x
+📡
+📱
+🎧
+🎹
+⌨️
+📼
+🍿
+🍔
+🍕
+🗽
 
 
 
