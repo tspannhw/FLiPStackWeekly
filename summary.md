@@ -1,9 +1,9 @@
 #### TL;DR 
 
- [Multi-modal RAG with CLIP, LLama3, Milvus](https://zilliz.com/blog/multimodal-RAG-with-CLIP-Llama3-and-milvus)        <br/>
+📎 [Multi-modal RAG with CLIP, LLama3, Milvus](https://zilliz.com/blog/multimodal-RAG-with-CLIP-Llama3-and-milvus)        <br/>
 🤖 [Using NVIDIA NIM Inference Microservices with Milvus (Is that NIM-M?)](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)     <br/>
- A     <br/>
- A     <br/>
+📊[AI Camp Pose Estimation Slides](https://www.slideshare.net/slideshow/08-15-2024-ai-camp-meetup-human-pose-estimation-in-real-time-utilizing-edge-ai-accelerated-hardware/271017430)     <br/>
+📱[.NET Conf with AI and Milvus ](https://www.youtube.com/live/3x9ynkurJoI)     <br/>
  A     <br/>
  A by @Tspann<br/>
  X      <br/>
@@ -33,7 +33,7 @@
 🤖 [PHI-3.5 Mini Instruct MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) Mixture of Experts edition<br/>
 📼 [Structured Document Extraction At Scale (Webinar)](https://zilliz.com/event/challenges-in-structured-doc-data-extraction-at-scale-with-llms) <br/> 
 💰 [Raspberry Pi 5 + AI Kit + Milvus Demo](https://github.com/tspannhw/AIM-RPIAIKit-PoseEstimation) do cool Edge AI/DB on the cheap$
-📊
+
 👾
 🔥
 
@@ -78,3 +78,9 @@ x
 🐦
 📢
 🌐
+✂️
+🦾
+🛸
+🛢️
+🛼
+🧱
