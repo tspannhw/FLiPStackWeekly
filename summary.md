@@ -4,20 +4,13 @@
 🤖 [Using NVIDIA NIM Inference Microservices with Milvus (Is that NIM-M?)](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)     <br/>
 📊[AI Camp Pose Estimation Slides](https://www.slideshare.net/slideshow/08-15-2024-ai-camp-meetup-human-pose-estimation-in-real-time-utilizing-edge-ai-accelerated-hardware/271017430)     <br/>
 📱[.NET Conf with AI and Milvus ](https://www.youtube.com/live/3x9ynkurJoI)     <br/>
- A     <br/>
- A by @Tspann<br/>
- X      <br/>
- Y       <br/>
- Z    <br/>
- AI   <br/>
-
 
 #### Upcoming
 
 🗽 Sept 18: NYC: [Unstructured Data Meetup NYC](https://lu.ma/9o3la3gf)      <br/>
+🚕 Oct 23: NYC: [Unstructured Data Meetup NYC](https://lu.ma/naqu6xrd)  <br/>
 📡 Oct 27-29: Raleigh, NC:  [All Things Open](https://2024.allthingsopen.org/sessions/advanced-retrieval-augmented-generation-rag-techniques)     <br/>
- Data @ Tim  <br/>
- Milvus + Stuff <br/>
+🔥 [Milvus 2.4.9](https://github.com/milvus-io/milvus/releases/tag/v2.4.9) (Milvus 2.5 is soon) <br/>
 
 #### Last Week
 
@@ -32,14 +25,15 @@
 🤖 [PHI-3.5 Mini Instruct Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)  for vision<br/>
 🤖 [PHI-3.5 Mini Instruct MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) Mixture of Experts edition<br/>
 📼 [Structured Document Extraction At Scale (Webinar)](https://zilliz.com/event/challenges-in-structured-doc-data-extraction-at-scale-with-llms) <br/> 
-💰 [Raspberry Pi 5 + AI Kit + Milvus Demo](https://github.com/tspannhw/AIM-RPIAIKit-PoseEstimation) do cool Edge AI/DB on the cheap$
+💰 [Raspberry Pi 5 + AI Kit + Milvus Demo](https://github.com/tspannhw/AIM-RPIAIKit-PoseEstimation) do cool Edge AI/DB on the cheap 💰
 
-👾
-🔥
+
+
 
 
 **Icons**
 
+👾
 🐳
 🎮
 🐦‍🔥
