@@ -14,8 +14,8 @@
 
 #### Upcoming
 
-🗽 September 18, 2024: [Unstructured Data Meetup NYC](https://lu.ma/9o3la3gf)      <br/>
- Search      <br/>
+🗽 Sept 18: NYC: [Unstructured Data Meetup NYC](https://lu.ma/9o3la3gf)      <br/>
+📡 Oct 27-29: Raleigh, NC:  [All Things Open](https://2024.allthingsopen.org/sessions/advanced-retrieval-augmented-generation-rag-techniques)     <br/>
  Data @ Tim  <br/>
  Milvus + Stuff <br/>
 
@@ -32,12 +32,18 @@
 🤖 [PHI-3.5 Mini Instruct Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)  for vision<br/>
 🤖 [PHI-3.5 Mini Instruct MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) Mixture of Experts edition<br/>
 📼 [Structured Document Extraction At Scale (Webinar)](https://zilliz.com/event/challenges-in-structured-doc-data-extraction-at-scale-with-llms) <br/> 
+💰 [Raspberry Pi 5 + AI Kit + Milvus Demo](https://github.com/tspannhw/AIM-RPIAIKit-PoseEstimation) do cool Edge AI/DB on the cheap$
 📊
+👾
+🔥
 
 
 **Icons**
 
-👾
+🐳
+🎮
+🐦‍🔥
+🌧️
 👽
 x
 📡
