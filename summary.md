@@ -26,10 +26,12 @@
 📊 [Unstructured Meetup](https://medium.com/@tspann/ai-and-vectors-in-the-sky-f28297c01546) @ SAP Hudson Yards NYC<br/>
 🌐 [What's in the Air Tonight, Mr. Milvus. (Air Quality + Vector Database + RAG)](https://medium.com/@tspann/whats-in-the-air-tonight-mr-milvus-fbd42f06e482) 
 
-#### Notebooks, projects, apps, examples and demos
+#### Apps, Demos, Examples, Models, Notebooks and Projects
 
 🚀 [Air Quality Applications & Notebook](https://github.com/tspannhw/AIM-AirQuality) by @ Tim Spann <br/>
-🤖 
+🤖 [PHI-3.5 Mini Instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct)  supports 128K context length 
+🤖 [PHI-3.5 Mini Instruct Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)  for vision
+🤖 [PHI-3.5 Mini Instruct MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) Mixture of Experts edition
 👾
 👽
 x
