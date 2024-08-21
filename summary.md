@@ -1,9 +1,11 @@
-#### TL;DR 
+#### TL;DR --- But you should
 
 📎 [Multi-modal RAG with CLIP, LLama3, Milvus](https://zilliz.com/blog/multimodal-RAG-with-CLIP-Llama3-and-milvus)        <br/>
 🤖 [Using NVIDIA NIM Inference Microservices with Milvus (Is that NIM-M?)](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)     <br/>
-📊[AI Camp Pose Estimation Slides](https://www.slideshare.net/slideshow/08-15-2024-ai-camp-meetup-human-pose-estimation-in-real-time-utilizing-edge-ai-accelerated-hardware/271017430)     <br/>
-📱[.NET Conf with AI and Milvus ](https://www.youtube.com/live/3x9ynkurJoI)     <br/>
+📊 [AI Camp Pose Estimation Slides](https://www.slideshare.net/slideshow/08-15-2024-ai-camp-meetup-human-pose-estimation-in-real-time-utilizing-edge-ai-accelerated-hardware/271017430)     <br/>
+📱 [.NET Conf with AI and Milvus ](https://www.youtube.com/live/3x9ynkurJoI)     <br/>
+🖥️ [RAG Handbook](https://zilliz.com/learn/RAG-handbook)    <br/>
+📢 [Compression for dataframes](https://github.com/MNoorFawi/lzhw)   <br/>
 
 #### Upcoming
 
