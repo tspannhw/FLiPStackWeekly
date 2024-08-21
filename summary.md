@@ -1,8 +1,8 @@
 #### TL;DR 
 
 
-🐍 O     <br/>
-🤖 A     <br/>
+🐍 [Multi-modal RAG with CLIP, LLama3, Milvus](https://zilliz.com/blog/multimodal-RAG-with-CLIP-Llama3-and-milvus)        <br/>
+🤖 [Using NVIDIA NIM Inference Microservices with Milvus (Is that NIM-M?)](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)     <br/>
 🧪 A     <br/>
 🧩 A     <br/>
 🧩 A     <br/>
