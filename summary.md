@@ -1,6 +1,5 @@
 #### TL;DR 
 
-
 🐍 [Multi-modal RAG with CLIP, LLama3, Milvus](https://zilliz.com/blog/multimodal-RAG-with-CLIP-Llama3-and-milvus)        <br/>
 🤖 [Using NVIDIA NIM Inference Microservices with Milvus (Is that NIM-M?)](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)     <br/>
 🧪 A     <br/>
@@ -29,9 +28,14 @@
 #### Apps, Demos, Examples, Models, Notebooks and Projects
 
 🚀 [Air Quality Applications & Notebook](https://github.com/tspannhw/AIM-AirQuality) by @ Tim Spann <br/>
-🤖 [PHI-3.5 Mini Instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct)  supports 128K context length 
-🤖 [PHI-3.5 Mini Instruct Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)  for vision
-🤖 [PHI-3.5 Mini Instruct MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) Mixture of Experts edition
+🤖 [PHI-3.5 Mini Instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct)  supports 128K context length <br/>
+🤖 [PHI-3.5 Mini Instruct Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)  for vision<br/>
+🤖 [PHI-3.5 Mini Instruct MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) Mixture of Experts edition<br/>
+📼 [Structured Document Extraction At Scale (Webinar)](https://zilliz.com/event/challenges-in-structured-doc-data-extraction-at-scale-with-llms) <br/> 
+
+
+**Icons**
+
 👾
 👽
 x
@@ -40,12 +44,10 @@ x
 🎧
 🎹
 ⌨️
-📼 [Structured Document Extraction At Scale (Webinar)](https://zilliz.com/event/challenges-in-structured-doc-data-extraction-at-scale-with-llms) <br/> 
 🍿
 🍔
 🍕
 🗽
-
 🚕
 🌃
 🌆
@@ -56,8 +58,3 @@ x
 🐱
 🐦
 📢
-📡
-
-
-
-
