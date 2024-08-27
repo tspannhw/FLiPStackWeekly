@@ -14,9 +14,9 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
 
 ### List
 
-* 153: 02-September-2024:
+* 153: 02-September-2024:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/153-02Sept2024.md
   
-* 152: 26-August-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/152-26August2024.md
+* 152: 26-August-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/152-26August2024.md  https://medium.com/@tspann/aim-weekly-26-august-2024-5337c4fb65e4  https://dev.to/tspannhw/aim-weekly-26-august-2024-3oli  https://timwithpulsar.hashnode.dev/aim-weekly-26-august-2024   https://open.substack.com/pub/flank/p/aim-weekly-26-august-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://www.datainmotion.dev/2024/08/aim-weekly-26-august-2024.html  https://www.linkedin.com/pulse/aim-weekly-26-august-2024-tim-spann--9mo1e  
   
 * 151: 19-August-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/151-19August2024.md   https://dev.to/tspannhw/aim-weekly-19-august-2024-2onb   https://timwithpulsar.hashnode.dev/aim-weekly-19-august-2024  https://open.substack.com/pub/flank/p/aim-weekly-19-august-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.datainmotion.dev/2024/08/aim-weekly-19-august-2024.html   https://www.linkedin.com/pulse/aim-weekly-19-august-2024-tim-spann--u9dge https://medium.com/@tspann/aim-weekly-19-august-2024-503acf97c302 
   
