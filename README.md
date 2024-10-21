@@ -1,4 +1,4 @@
-# FLiP N FLaNK / AiM Stack / Federation / Pattern Weekly
+ # FLiP N FLaNK / AiM Stack / Federation / Pattern Weekly
 
 AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data Processing, Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Paimon, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
@@ -32,7 +32,7 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
   
 * 162: 04-November-2024:
   
-* 161: 28-October-2024:
+* 161: 28-October-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/161-28October2024.md
   
 * 160: 21-October-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/160-21Oct2024.md    https://www.linkedin.com/pulse/aim-weekly-21-october-2024-tim-spann--inpfe   https://timwithpulsar.hashnode.dev/aim-weekly-for-21-october-2024  https://www.datainmotion.dev/2024/10/aim-weekly-21-october-2024.html   https://dev.to/tspannhw/aim-weekly-21-october-2024-4n74  https://medium.com/@tspann/aim-weekly-for-21-october-2024-342f9a7267d1  
   
