@@ -32,7 +32,7 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
   
 * 162: 04-November-2024: https://github.com/tspannhw/FLiPStackWeekly/blob/main/162-04Nov2024.md 
   
-* 161: 28-October-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/161-28October2024.md https://timwithpulsar.hashnode.dev/aim-weekly-28-oct-2024   https://dev.to/tspannhw/aim-weekly-28-oct-2024-339l  https://www.datainmotion.dev/2024/10/aim-weekly-all-things-open-28-october.html  https://medium.com/@tspann/aim-weekly-for-28-oct-2024-3a9392672b44
+* 161: 28-October-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/161-28October2024.md https://timwithpulsar.hashnode.dev/aim-weekly-28-oct-2024   https://dev.to/tspannhw/aim-weekly-28-oct-2024-339l  https://www.datainmotion.dev/2024/10/aim-weekly-all-things-open-28-october.html  https://medium.com/@tspann/aim-weekly-for-28-oct-2024-3a9392672b44 https://www.linkedin.com/pulse/aim-weekly-28-october-2024-tim-spann--qx8xe/?trackingId=DSvMdXmXT4i5eZ4533mPBw%3D%3D
   
 * 160: 21-October-2024:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/160-21Oct2024.md    https://www.linkedin.com/pulse/aim-weekly-21-october-2024-tim-spann--inpfe   https://timwithpulsar.hashnode.dev/aim-weekly-for-21-october-2024  https://www.datainmotion.dev/2024/10/aim-weekly-21-october-2024.html   https://dev.to/tspannhw/aim-weekly-21-october-2024-4n74  https://medium.com/@tspann/aim-weekly-for-21-october-2024-342f9a7267d1  
   
