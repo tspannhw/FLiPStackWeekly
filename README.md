@@ -20,9 +20,9 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
 
 * 168: 16-December-2024:
   
-* 167: 9-December-2024:
+* 167: 9-December-2024: https://github.com/tspannhw/FLiPStackWeekly/blob/main/167-09Dec2024.md
   
-* 166: 02-December-2024: https://github.com/tspannhw/FLiPStackWeekly/edit/main/166-02DEC2024.md 
+* 166: 02-December-2024: https://github.com/tspannhw/FLiPStackWeekly/edit/main/166-02DEC2024.md https://timwithpulsar.hashnode.dev/ai-and-all-data-weekly-02-december-2024   https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-02-december-2024-3kg2  https://open.substack.com/pub/flank/p/ai-and-all-data-weekly-for-02-december?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.linkedin.com/pulse/ai-all-data-weekly-02-december-2024-tim-spann-utexe   https://www.datainmotion.dev/2024/12/aidata-weekly-ai-data-iceberg-polaris.html  
 
 * 165: 25-November-2024: https://github.com/tspannhw/FLiPStackWeekly/blob/main/165-25Nov2024.md 
 https://timwithpulsar.hashnode.dev/flaiv-king-weekly-for-25-november-2024   https://www.linkedin.com/pulse/ai-data-weekly-25-november-2024-tim-spann-f8vre   https://medium.com/@tspann/flaiv-king-weekly-for-25-november-2024-2b788620322b https://open.substack.com/pub/flank/p/flaiv-king-weekly-for-25-nov-2024?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://www.datainmotion.dev/2024/11/flaiv-king-weekly-flink-ai-vectors_25.html https://www.linkedin.com/pulse/ai-data-weekly-25-november-2024-tim-spann-f8vre
