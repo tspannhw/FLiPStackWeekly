@@ -18,7 +18,7 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
   
 * 169: 23-December-2024:
 
-* 168: 16-December-2024:
+* 168: 16-December-2024:  https://github.com/tspannhw/FLiPStackWeekly/edit/main/168-16Dec2024.md  https://medium.com/@tspann/ai-and-all-data-16-dec-2024-dde3c05b033e  https://www.linkedin.com/pulse/ai-all-data-16-december-2024-tim-spann-hicle   https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-for-16-december-2024-35b4  https://www.datainmotion.dev/2024/12/ai-and-all-data-weekly-for-16-december.html  https://open.substack.com/pub/flank/p/ai-and-all-data-weekly-for-16-december?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.linkedin.com/pulse/ai-all-data-16-december-2024-tim-spann-hicle  https://timwithpulsar.hashnode.dev/ai-and-all-data-weekly  
   
 * 167: 9-December-2024: https://github.com/tspannhw/FLiPStackWeekly/blob/main/167-09Dec2024.md   https://timwithpulsar.hashnode.dev/ai-and-all-data-weekly-fof-09-december-2024   https://open.substack.com/pub/flank/p/ai-and-all-data-weekly-for-09-dec?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-weekly-for-09-dec-2024-3f9m   https://medium.com/@tspann/ai-and-all-data-weekly-for-09-dec-2024-115c06225275   https://www.linkedin.com/pulse/ai-all-data-weekly-09-dec-2024-tim-spann-paofe   https://www.datainmotion.dev/2024/12/ai-and-all-data-weekly-09-december-2024.html
   
