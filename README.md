@@ -14,6 +14,15 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
 
 ### List
 
+* 175: 03-February-2025:
+  
+* 174: 27-January-2025:   California edition
+  
+* 173: 20-January-2025:
+
+* 172: 13-January-2025:   https://github.com/tspannhw/FLiPStackWeekly/edit/main/172-13JAN2025.md   https://www.datainmotion.dev/2025/01/all-data-and-ai-weekly-ai-data-iceberg.html   https://medium.com/@tspann/all-data-and-ai-weekly-172-13-january-2025-f16d4dc70c0b     https://www.linkedin.com/pulse/all-data-ai-weekly-172-13-jan-2025-tim-spann-o4aje   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-ai-data-iceberg?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-172-for-13-jan-2025   
+
+
 * 171: 06-January-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/171-06JAN2025.md  https://www.linkedin.com/pulse/all-data-ai-weekly-06-jan-2025-tim-spann-ixwee
 
  
