@@ -18,7 +18,7 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
   
 * 177: 17-February-2025: SKO
   
-* 176: 10-February-2025:
+* 176: 10-February-2025: https://github.com/tspannhw/FLiPStackWeekly/edit/main/2025/176-10Feb2025.md    https://www.datainmotion.dev/2025/02/all-data-and-ai-weekly-ai-data-nifi.html  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-ai-data-nifi-iceberg-polaris-streamlit-flink-kafka-python-java-sql-unstructured-data-176-10feb2025  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-ai-data-nifi?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-176-10-feb-2025-5f8c   https://medium.com/@tspann/all-data-and-ai-weekly-ai-data-nifi-iceberg-polaris-streamlit-flink-kafka-python-java-81591c851a30   https://www.linkedin.com/pulse/all-data-ai-weekly-176-10-feb-2025-tim-spann-fklde
   
 * 175: 03-February-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/175-03Feb2025.md   https://timwithpulsar.hashnode.dev/ai-and-all-data-175-03-february-2025  https://open.substack.com/pub/flank/p/ai-and-all-data-175-03-february-2025?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://medium.com/@tspann/ai-and-all-data-175-03-february-2025-78acdc4cd5f6   https://www.datainmotion.dev/2025/02/ai-and-all-data-175-03-february-2025.html   https://dev.to/timothy_spann_a41a639e47c/ai-and-all-data-175-03-february-2025-2hi3  https://www.linkedin.com/pulse/ai-all-data-175-03-february-2025-tim-spann-e1pre
   
