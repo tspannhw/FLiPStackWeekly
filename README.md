@@ -13,10 +13,20 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
 * https://www.youtube.com/@FLaNK-Stack
 
 ### List
+'
+* 187:  28-April-2025:
+  
+* 186:  21-April-2025:
+  
+* 185:  14-April-2025:
+  
+* 184:  07-April-2025:
+  
+* 183:  31-March-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/183-31March2025.md  
 
-* 180:  24 March-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/182-24March2025.md   
+* 182:  24 March-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/182-24March2025.md     https://www.datainmotion.dev/2025/03/all-data-and-ai-weekly-182-24-march-2025.html  https://www.linkedin.com/pulse/all-data-ai-weekly-182-24-march-2025-tim-spann-wdzwe  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-182-24-march-2025-hgj  
 
-* 180:  17 March-2025: https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/181-17March2025.md    https://www.datainmotion.dev/2025/03/all-data-and-ai-weekly-181-17-march-2025.html   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-181-17-march-2025-df8   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-181-17-march-2025  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-181-17-march?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://medium.com/@tspann/all-data-and-ai-weekly-181-17-march-2025-503a2f26043f  https://www.linkedin.com/pulse/all-data-ai-weekly-181-17-march-2025-tim-spann-aon3c  
+* 181:  17 March-2025: https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/181-17March2025.md    https://www.datainmotion.dev/2025/03/all-data-and-ai-weekly-181-17-march-2025.html   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-181-17-march-2025-df8   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-181-17-march-2025  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-181-17-march?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://medium.com/@tspann/all-data-and-ai-weekly-181-17-march-2025-503a2f26043f  https://www.linkedin.com/pulse/all-data-ai-weekly-181-17-march-2025-tim-spann-aon3c  
 
 * 180:  10 March-2025: https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/180-10March2025.md https://www.datainmotion.dev/2025/03/all-data-and-ai-weekly-ai-data-nifi.html   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-180-10-march?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-180-10-march-2025   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-180-10-march-2025-1dj9  https://medium.com/@tspann/all-data-and-ai-weekly-180-10-march-2025-52665741be8b https://www.linkedin.com/pulse/all-data-ai-weekly-180-10-march-2025-tim-spann-pyd1e 
   
