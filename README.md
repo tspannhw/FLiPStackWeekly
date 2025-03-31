@@ -22,7 +22,7 @@ AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data 
   
 * 184:  07-April-2025:
   
-* 183:  31-March-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/183-31March2025.md  
+* 183:  31-March-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/183-31March2025.md  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-183-31-march-2025-4534   https://medium.com/@tspann/all-data-and-ai-weekly-183-31-march-2025-ab4392f1e558   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-183-31-march-2025   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-183-31-march-2025  https://www.datainmotion.dev/2025/03/all-data-and-ai-weekly-183-31-march-2025.html   https://www.linkedin.com/pulse/all-data-ai-weekly-183-31-march-2025-tim-spann-sqlve   
 
 * 182:  24 March-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/182-24March2025.md     https://www.datainmotion.dev/2025/03/all-data-and-ai-weekly-182-24-march-2025.html  https://www.linkedin.com/pulse/all-data-ai-weekly-182-24-march-2025-tim-spann-wdzwe  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-182-24-march-2025-hgj  
 
