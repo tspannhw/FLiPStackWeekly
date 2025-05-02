@@ -1,6 +1,6 @@
- # FLiP N FLaNK / AiM Stack / Federation / Pattern Weekly
+ # Data and AI / FLiP N FLaNK / AiM Stack / Federation / Pattern Weekly
 
-AIM Weekly covering AI, Milvus, Gen AI, LLM, Vector Database, Unstructured Data Processing, Apache Kafka, Apache Flink, Apache NiFi, Apache Spark, Apache Iceberg, Apache Paimon, Apache Pulsar, Apache Ozone,  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
+AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka, Apache Flink, Apache NiFi,  Apache Iceberg,  Apache  Open Source Tools, Events, Articles, Videos, Podcasts, Code, Demos, Diagrams and more...
 
 ### Join
 
