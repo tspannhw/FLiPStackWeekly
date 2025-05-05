@@ -18,9 +18,9 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
   
 * 190:  19-May-2025:
   
-* 189:  12-May-2025:
+* 189:  12-May-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/189-12may2025.md     
   
-* 188:  05-May-2025:
+* 188:  05-May-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/188-05May2025.md    https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-188-may-5-2025-hdk   https://www.datainmotion.dev/2025/05/all-data-and-ai-weekly-188-may-5-2025.html   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-188-may-5-2025  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-188-may-5?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true      https://medium.com/@tspann/all-data-and-ai-weekly-188-may-5-2025-2875095b189d   
   
 * 187:  28-April-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/187-28APR2025.md    https://www.datainmotion.dev/2025/04/all-data-and-ai-weekly-187-april-282025.html   https://medium.com/@tspann/all-data-and-ai-weekly-187-april-28-2025-d2fde200acf9    https://www.linkedin.com/pulse/all-data-ai-weekly-187-april-282025-tim-spann-qps2e   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-187-april?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-187-april-28-2025  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-187-april-28-2025-15jn  
   
