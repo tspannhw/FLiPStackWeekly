@@ -14,9 +14,19 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
-* 200:  28-July-2025:
+* 205:  01-Sept-2025:   labor day
+ 
+* 204:  25-Aug-2025:  Birthday PTO
+  
+* 203:  18-Aug-2025:
 
-* 199:  21-July-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/199-21July2025.md
+* 202:  11-Aug-2025:
+  
+* 201:  04-Aug-2025:
+  
+* 200:  28-July-2025:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/200-28July2025.md     
+
+* 199:  21-July-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/199-21July2025.md    https://www.datainmotion.dev/2025/07/all-data-and-ai-weekly-199-july-21-2025.html    https://flank.substack.com/p/all-data-and-ai-weekly-199-july-21    https://www.linkedin.com/pulse/all-data-ai-weekly-199-july-21-2025-tim-spann-mzaoe  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-199-july-21-2025-1pmd    https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-199-july-21-2025   https://medium.com/@tspann/all-data-and-ai-weekly-199-july-21-2025-cb55ed1b66ae  
   
 * 198:  14-July-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/198-14July2025.md   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-198-july-14-2025-2bf2   https://medium.com/@tspann/all-data-and-ai-weekly-198-july-14-2025-2f6fb7e498bb   https://www.datainmotion.dev/2025/07/all-data-and-ai-weekly-198-july-14-2025.html   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-198-july-14?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-198-july-14-2025  https://www.linkedin.com/pulse/all-data-ai-weekly-198-july-14-2025-tim-spann-4ip4e
   
