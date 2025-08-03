@@ -20,9 +20,9 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
   
 * 203:  18-Aug-2025:
 
-* 202:  11-Aug-2025:
+* 202:  11-Aug-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/202-11Aug2025.md    
   
-* 201:  04-Aug-2025:
+* 201:  04-Aug-2025   https://www.datainmotion.dev/2025/08/all-data-and-ai-weekly-201-04-aug-2025.html   https://medium.com/@tspann/all-data-and-ai-weekly-201-04-aug-2025-64d48c08e957   https://medium.com/@tspann/all-data-and-ai-weekly-201-04-aug-2025-64d48c08e957   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-201-04-aug?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-201-04-aug-2025   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-201-04-aug-2025-4nii  https://www.linkedin.com/pulse/all-data-ai-weekly-201-04-aug-2025-tim-spann-3gpqe  
   
 * 200:  28-July-2025:    https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/200-28July2025.md     https://www.datainmotion.dev/2025/07/all-data-and-ai-weekly-200-july-28-2025.html   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-200-july-28-2025-11pe   https://flank.substack.com/p/all-data-and-ai-weekly-200-july-28?sd=pf   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-200-july-28-2025   https://medium.com/@tspann/all-data-and-ai-weekly-200-july-28-2025-bd0339bf956b  https://www.catscloudsanddata.com/  https://www.linkedin.com/pulse/all-data-ai-weekly-200-july-28-2025-tim-spann-dc8ee  
 
