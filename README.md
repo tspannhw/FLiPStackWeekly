@@ -14,7 +14,7 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
-* 205:  01-Sept-2025:   labor day  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/205-01Sept2025.md  
+* 205:  01-Sept-2025:   labor day  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/205-01Sept2025.md     https://medium.com/@tspann/all-data-and-ai-weekly-205-01-sept-2025-5fcd93953b32     https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-205-01-sept-2025-5002   https://www.datainmotion.dev/2025/09/all-data-and-ai-weekly-205-01-sept-2025.html   https://www.linkedin.com/pulse/all-data-ai-weekly-205-01-sept-2025-tim-spann-l4hbe   
  
 * 204:  25-Aug-2025:  Birthday PTO - https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/204-25Aug2025.md  
   
