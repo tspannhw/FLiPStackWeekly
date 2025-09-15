@@ -14,7 +14,9 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
-* 207:  15-Sept-2025:   Community over code
+* 207:  15-Sept-2025:   Community over code  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/207-15Sept2025.md   https://medium.com/@tspann/all-data-and-ai-weekly-207-15-sept-2025-20b6a9f261be   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-207-15-sept-2025-2gai    https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-207-15-sept-2025  https://medium.com/@tspann/all-data-and-ai-weekly-207-15-sept-2025-20b6a9f261be  https://www.datainmotion.dev/2025/09/all-data-and-ai-weekly-207-15-sept-2025.html   https://www.linkedin.com/pulse/all-data-ai-weekly-207-15-sept-2025-tim-spann-nas7e  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-207-15-sept?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+
   
 * 206:  08-Sept-2025:   https://www.datainmotion.dev/2025/09/all-data-and-ai-weekly-206-08-sept-2025.html  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-206-08-sept?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true    https://medium.com/@tspann/all-data-and-ai-weekly-206-08-sept-2025-36311846748a   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-206-08-sept-2025-2fd4  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-206-08-sept-2025  
 
