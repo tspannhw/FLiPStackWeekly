@@ -14,6 +14,8 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
+* 208: 22-Sept-2025:  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-208-22-sept-2025-h5j   https://www.reddit.com/r/DataEngineeringForAI/comments/1nnw5on/all_data_and_ai_weekly_208_22_sept_2025/   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-208-22-sept-2025   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-208-22-sept?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.datainmotion.dev/2025/09/all-data-and-ai-weekly-208-22-sept-2025.html   https://medium.com/@tspann/all-data-and-ai-weekly-208-22-sept-2025-efdeb5e210cc  https://www.linkedin.com/pulse/all-data-ai-weekly-208-22-sept-2025-tim-spann-pncve/?trackingId=%2Fj91WLN5TJmxlG3LJ18lig%3D%3D
+  
 * 207:  15-Sept-2025:   Community over code  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/207-15Sept2025.md   https://medium.com/@tspann/all-data-and-ai-weekly-207-15-sept-2025-20b6a9f261be   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-207-15-sept-2025-2gai    https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-207-15-sept-2025  https://medium.com/@tspann/all-data-and-ai-weekly-207-15-sept-2025-20b6a9f261be  https://www.datainmotion.dev/2025/09/all-data-and-ai-weekly-207-15-sept-2025.html   https://www.linkedin.com/pulse/all-data-ai-weekly-207-15-sept-2025-tim-spann-nas7e  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-207-15-sept?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 
