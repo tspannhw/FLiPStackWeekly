@@ -14,6 +14,9 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
+*  215: 10-nov-2025:   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-215-10-november-2025-4c2f   https://www.datainmotion.dev/2025/11/all-data-and-ai-weekly-215-10-november.html     https://medium.com/@tspann/all-data-and-ai-weekly-215-10-november-2025-5b4c25db43eb      https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-215-10-november?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true    https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-215-10-november-2025    https://www.linkedin.com/pulse/all-data-ai-weekly-215-10-november-2025-tim-spann-pmcve/?published=t
+
+*  
 *  214: 03-nov-2025:   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-214-03-nov-2025-1k02    https://www.linkedin.com/pulse/all-data-ai-weekly-214-03-nov-2025-tim-spann-jmr7e   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-214-03-nov?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://www.datainmotion.dev/2025/11/all-data-and-ai-weekly-214-03-nov-2025.html   https://medium.com/@tspann/all-data-and-ai-weekly-214-03-nov-2025-8e770584d459  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-214-03-nov-2025   https://www.catscloudsanddata.com/   https://www.reddit.com/r/DataEngineeringForAI/  
   
 
