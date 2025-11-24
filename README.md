@@ -14,6 +14,7 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
+* 217: 24-Nov-2025:  https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/217-24Nov2025.md  https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-217-24nov2025-1kgh   https://medium.com/@tspann/all-data-and-ai-weekly-217-24nov2025-348f5aff687c   https://www.datainmotion.dev/2025/11/all-data-and-ai-weekly-217-24nov2025.html  https://www.linkedin.com/pulse/all-data-ai-weekly-217-24nov2025-tim-spann-inzwe
 
 *  216: 17-nov-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/216-17Nov2025.md   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-21617nov2025-2hl1   https://www.datainmotion.dev/2025/11/all-data-and-ai-weekly-21617nov2025.html  https://medium.com/@tspann/all-data-and-ai-weekly-216-17-nov-2025-25703567baa9?postPublishedType=initial  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-21617nov2025?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-21617nov2025    https://www.linkedin.com/pulse/all-data-ai-weekly-21617nov2025-tim-spann-uajle
   
