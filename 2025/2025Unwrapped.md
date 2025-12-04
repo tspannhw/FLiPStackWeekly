@@ -28,6 +28,14 @@
 * https://www.youtube.com/watch?v=aPHHgO0_EHs
 * https://www.youtube.com/watch?v=SQtq_tgh5g4
 * https://www.youtube.com/watch?v=YJhRcXFNv2M
+* https://www.youtube.com/watch?v=Vgr1wnzxxB8&list=PLlmpIaH7URGUvRgfrTO02abbiEDlnWJzK&index=4
+* https://www.youtube.com/watch?v=iXBgltF1ihg&pp=ygUJVGltIFNwYW5u
+* https://www.youtube.com/watch?v=JBkUFqwzN-Y&pp=ygUJVGltIFNwYW5u
+* https://www.youtube.com/watch?v=v3Anx71WNm0&pp=ygUJVGltIFNwYW5u
+* https://www.youtube.com/watch?v=yqHKnP8-D2g&pp=ygUJVGltIFNwYW5u
+* https://www.youtube.com/watch?v=Vgr1wnzxxB8&pp=ygUJVGltIFNwYW5u
+* https://www.youtube.com/watch?v=IJuzKZdiLCg&pp=ygUJVGltIFNwYW5u
+* 
 
 
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/819ebe10-82a3-4ac3-a443-fadb4304c9aa" />
