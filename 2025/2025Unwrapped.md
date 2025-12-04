@@ -7,6 +7,19 @@
 
 
 
+
+### Events 2025
+
+
+#### AWS New York Summit
+* https://github.com/tspannhw/conferences/tree/main/2025/awsny
+
+#### Hex + Snowflake Hackathon
+* https://github.com/tspannhw/hackathons/tree/main/2025-07-15
+
+
+
+
 ### Medium Articles 
 
 * https://medium.com/@tspann/automating-transit-gtfs-flows-7a5c4d3dafe8
