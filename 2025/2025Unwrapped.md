@@ -19,7 +19,7 @@
 
 #### Virtual Events
 * https://www.conf42.com/iot2025
-* https://www.linkedin.com/feed/update/urn:li:activity:7395490782805159936/
+* [https://www.linkedin.com/feed/update/urn:li:activity:7395490782805159936/](https://github.com/tspannhw/conferences/tree/main/2025/DataScienceSummit)
 
 #### Future Events 2026
 * https://llmday.com/2026-nyc-q1/Tim_Spann_Snowflake_From_TrafficAI_to_GhostBreakers_Building_Stateful_AI_Agents_with_Cortex__OpenFlo
