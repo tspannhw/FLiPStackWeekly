@@ -1,3 +1,8 @@
+
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/35f87680-1445-4189-9c50-52c8a6e216ee" />
+
+
+
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/8bc28584-9956-4bed-a856-f19bc9603d54" />
 
 
@@ -10,6 +15,7 @@
 * https://medium.com/@tspann/yes-apache-nifi-can-do-that-c7fcaca5a177
 * https://medium.com/@tspann/snowghostbreakers-paranormal-data-and-ai-fe6e7b15e433
 * https://medium.com/@tspann/building-transit-ridership-with-cursor-ai-utomatically-d73cbdcba3e9
+
 
 ### Videos
 
@@ -37,6 +43,7 @@
 * https://www.youtube.com/watch?v=IJuzKZdiLCg&pp=ygUJVGltIFNwYW5u
 * https://www.youtube.com/watch?v=4Ojue8TWv6A&pp=ygUQVGltIFNwYW5uIHB5dGhvbg%3D%3D
 
+
 ### Demo Repos
 
 * https://github.com/tspannhw/RPIThermalStreaming
@@ -44,6 +51,7 @@
 * https://github.com/tspannhw/SnowGhostBreakers
 * https://github.com/tspannhw/TrafficAI
 * https://github.com/tspannhw/SnowflakeUserKeyValidation
+
 
 ### Documents, Articles, Links, Code Repos
 
