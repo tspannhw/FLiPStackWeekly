@@ -37,6 +37,48 @@
 * https://www.youtube.com/watch?v=IJuzKZdiLCg&pp=ygUJVGltIFNwYW5u
 * https://www.youtube.com/watch?v=4Ojue8TWv6A&pp=ygUQVGltIFNwYW5uIHB5dGhvbg%3D%3D
 
+### Demo Repos
+
+* https://github.com/tspannhw/RPIThermalStreaming
+* https://github.com/tspannhw/mta-snowpipe-streaming
+* https://github.com/tspannhw/SnowGhostBreakers
+* https://github.com/tspannhw/TrafficAI
+* https://github.com/tspannhw/SnowflakeUserKeyValidation
+
+### Documents, Articles, Links, Code Repos
+
+* https://github.com/tspannhw/SNOW-EnviroIoT
+* https://github.com/tspannhw/flyers
+* https://github.com/tspannhw/documents
+* https://github.com/tspannhw/CortexAISearchForAirQuality
+* https://github.com/tspannhw/cortex-code-demos
+* https://github.com/tspannhw/conferences
+* https://github.com/tspannhw/RDFOwlVisualizerAndEditor
+* https://github.com/tspannhw/SemanticView
+* https://github.com/tspannhw/SemanticViewBuilder
+* https://github.com/tspannhw/SemanticViewPlanes
+* https://github.com/tspannhw/SemanticViewTrafficEvents
+* https://github.com/tspannhw/SemanticViewOzone
+* https://github.com/tspannhw/SnowflakeBUILD2025
+* https://github.com/tspannhw/Ghosts
+* https://github.com/tspannhw/EverythingSnowflake
+* https://github.com/tspannhw/SnowflakeWorkspaceFinancial
+* https://github.com/tspannhw/snowflake-mta-dbt
+* https://github.com/tspannhw/SnowflakeHorizonCatalog
+* https://github.com/tspannhw/SnowflakeOpenCatalog
+* https://github.com/tspannhw/SnowflakeNotebookExample
+* https://github.com/tspannhw/SnowflakeToKafkaCDC
+* https://github.com/tspannhw/SnowflakeHorizonCatalogDemo
+* https://github.com/tspannhw/Example-RSSToCSV
+* https://github.com/tspannhw/SnowAdmin-Scripts
+* https://github.com/tspannhw/SnowConvertAI-ExampleGreenplumDB-CursorAI
+* https://github.com/tspannhw/PINSAI-Events
+* https://github.com/tspannhw/weather-snowflake
+* https://github.com/tspannhw/airqualitydata
+* https://github.com/tspannhw/transit-ridership
+* https://github.com/tspannhw/hackathons/tree/main/2025-07-15
+
+
 
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/819ebe10-82a3-4ac3-a443-fadb4304c9aa" />
 
