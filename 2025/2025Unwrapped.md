@@ -8,20 +8,26 @@ The Vibe: Real-Time Renaissance. While the industry was pivoting to agents, you 
 • Top Content Streak: You published the "All Data and AI Weekly" newsletter consistently, hitting Issue #218 by December 1, 2025.
 • Code Output: You logged 3,960 commits in your weekly stack repository alone.
 --------------------------------------------------------------------------------
+
 🌍 The 2025 World Tour
+
 You didn't just attend conferences; you turned them into case studies. Here is your official setlist for the year:
+
 Leg 1: The Spring Run (Q1)
 • Feb 20: AI Dev World (Virtual) – Kicking off the year with AI development patterns.
 • Mar 3: AAAI (Philly) – You presented "Build Secure RAG Apps With Open LLM," bringing open-source security to the AI main stage.
 • Mar 6: Conf42 Cloud Native (Virtual) – Topic: "Smart Cities & Data-Driven Automation."
 • Mar 11: Data for Breakfast (NYC) – Serving up data insights early in the morning.
 • Mar 20: Realtime AI (NYC) – You dropped the track "Streaming AI Pipelines with Apache NiFi and Snowflake".
+
 Leg 2: The Data Summit Sessions (Q2)
 • Apr 29: Snowflake Data Engineer Connect (Online) – Connecting engineers to the Data Cloud.
 • May 14: dBTA Data Summit (Boston) – You performed "From Air Quality to Unstructured Data," demonstrating how to parse environmental sensors.
+
 Leg 3: The "NiFi Man" Tour (Q3)
 • July 15: HEX Hackathon (NYC) – Solving NYC's biggest data challenges.
 • Sept 12: Community Over Code (Minneapolis) – The headlining act. You debuted the "NiFi Man" persona, analyzing flight and transit data to answer: "We're here – but should we have come?".
+
 Leg 4: The Winter Residency (Q4)
 • Nov 6: NODES 2025 (Virtual) – Graph data meets real-time streams.
 • Nov 21: Data Science Summit (Virtual) – Integrating LLMs into data science workflows.
