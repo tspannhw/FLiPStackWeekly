@@ -11,7 +11,23 @@
 * https://medium.com/@tspann/snowghostbreakers-paranormal-data-and-ai-fe6e7b15e433
 * https://medium.com/@tspann/building-transit-ridership-with-cursor-ai-utomatically-d73cbdcba3e9
 
+### Videos
 
+* https://www.youtube.com/watch?v=qjR9MkWnJrA
+* https://www.youtube.com/watch?v=mCTScLYKf7I&pp=0gcJCSMKAYcqIYzv
+* https://www.youtube.com/watch?v=GregRP6FTnw
+* https://www.youtube.com/watch?v=mpWMDRLDhXA
+* https://www.youtube.com/watch?v=u5tn2YgP3rk
+* https://www.youtube.com/watch?v=Gx8eo6oBBeY
+* https://www.youtube.com/watch?v=SbLkx6v1lm0
+* https://www.youtube.com/watch?v=5WDfOPGn88A
+* https://www.youtube.com/watch?v=ZEzUsXtERN0
+* https://www.youtube.com/watch?v=YUIaEPIwZO8
+* https://www.youtube.com/watch?v=bnRxlj915Tk
+* https://www.youtube.com/watch?v=MbKZbPxbfoU
+* https://www.youtube.com/watch?v=aPHHgO0_EHs
+* https://www.youtube.com/watch?v=SQtq_tgh5g4
+* https://www.youtube.com/watch?v=YJhRcXFNv2M
 
 
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/819ebe10-82a3-4ac3-a443-fadb4304c9aa" />
