@@ -1,3 +1,10 @@
+
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/819ebe10-82a3-4ac3-a443-fadb4304c9aa" />
+
+
+
+
+
 --------------------------------------------------------------------------------
 🟢 Tim Spann: The 2025 Wrapped
 The Vibe: Real-Time Renaissance. While the industry was pivoting to agents, you were already there, feeding them data from traffic cams, air sensors, and ghost registries. You spent the year proving that Apache NiFi is the universal connector for the AI era.
@@ -65,7 +72,7 @@ NotebookLM can be inaccurate; please double check its responses.
 
 
 
-
+=============================================================================================================================================================================================================================
 
 
 Here is your 2025 Data Engineering Wrapped.
