@@ -2,6 +2,16 @@
 
 
 
+### Medium Articles 
+
+* https://medium.com/@tspann/automating-transit-gtfs-flows-7a5c4d3dafe8
+* https://medium.com/@tspann/populating-an-open-lakehouse-with-codeless-data-streams-04292375ddaf
+* https://medium.com/@tspann/real-time-enrichment-of-air-quality-data-3ce670e4fc5b?
+* https://medium.com/@tspann/yes-apache-nifi-can-do-that-c7fcaca5a177
+* https://medium.com/@tspann/snowghostbreakers-paranormal-data-and-ai-fe6e7b15e433
+* https://medium.com/@tspann/building-transit-ridership-with-cursor-ai-utomatically-d73cbdcba3e9
+
+
 
 
 <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/819ebe10-82a3-4ac3-a443-fadb4304c9aa" />
