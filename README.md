@@ -14,7 +14,11 @@ AIM Weekly covering AI, Gen AI, LLM,  Unstructured Data Processing, Apache Kafka
 
 ### List
 
-* 220: 15-dec-2025:   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-220-15-dec-2025-1ggl   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/220-15Dec2025.md   https://www.datainmotion.dev/2025/12/all-data-and-ai-weekly-219-08-dec-2025.html  https://medium.com/@tspann/all-data-and-ai-weekly-220-15-dec-2025-4d6ab99ec8ce   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-220-15-dec-2025  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-220-15-dec?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true  https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-220-15-dec-2025  
+* 222: 29-dec-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/222-29Dec2025.md  
+
+* 221: 22-dec-2025:   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/221-22Dec2025.md
+
+* 220: 15-dec-2025:   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-220-15-dec-2025-1ggl   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/220-15Dec2025.md   https://www.datainmotion.dev/2025/12/all-data-and-ai-weekly-219-08-dec-2025.html  https://medium.com/@tspann/all-data-and-ai-weekly-220-15-dec-2025-4d6ab99ec8ce   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-220-15-dec-2025  https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-220-15-dec?   https://timwithpulsar.hashnode.dev/all-data-and-ai-weekly-220-15-dec-2025  
 
 * 219: 08-Dec-2025:   https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-219-08-dec-2025-1ka3   https://github.com/tspannhw/FLiPStackWeekly/blob/main/2025/219-08Dec2025.md   https://www.datainmotion.dev/2025/12/all-data-and-ai-weekly-219-08-dec-2025.html   https://open.substack.com/pub/flank/p/all-data-and-ai-weekly-219-08-dec?r=23guc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true   https://medium.com/@tspann/all-data-and-ai-weekly-219-08-dec-2025-c60b7fb7cbb5   https://www.linkedin.com/pulse/all-data-ai-weekly-219-08-dec-2025-tim-spann-0abme
   
